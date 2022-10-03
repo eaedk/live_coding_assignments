@@ -1,0 +1,11 @@
+*.ipynb
+# *.ipynb*/
+.pytest*
+.DS_Store
+
+# env
+venv/ 
+
+# some file
+src/assets/large_data.csv
+head.md

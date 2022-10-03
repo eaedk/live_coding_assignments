@@ -18,3 +18,11 @@ def solution(filepath):
     # @TODO : Let go, try, then SUCCEED !
 
     return # A pandas dataframe containing the data ready-to-use
+
+
+
+
+if __name__ == "__main__":
+    pass 
+    # Remove the pass above and Write your code here if you wan to execute the function
+    # or to check something

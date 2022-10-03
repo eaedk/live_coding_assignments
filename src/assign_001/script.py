@@ -24,5 +24,5 @@ def solution(filepath):
 
 if __name__ == "__main__":
     pass 
-    # Remove the pass above and Write your code here if you wan to execute the function
+    # Remove the pass above and Write your code here if you want to execute the function
     # or to check something

@@ -6,6 +6,9 @@
 # env
 venv/ 
 
+# useless folder
+src/assets/garbage
+
 # some file
 src/assets/large_data.csv
 head.md

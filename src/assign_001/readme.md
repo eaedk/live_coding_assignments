@@ -3,6 +3,9 @@
 ## 📙 Description
 A Data Engineer extracted some data for you before erasing it from the database. Unfortunately, an error occurred during the process, from the 3rd row the values were mixed up and no longer belong to the correct columns. As a Data Scientist, we need you to find a way to map values to the correct columns they should belong to.
 
+## Dataset
+The dataset for this assignment is `src/assets/shuffled_data.csv`.
+
 ## 📖 Instructions
 You have to implement your solution proposal in the file `script.py`. Remove all TODO comments and lines in the code/docstrings and replace them with your own code/docstrings.
 

@@ -5,6 +5,10 @@ As a Data Scientist, we need you to process a bunch of user data to help a compa
 
 **NB:** Use `Numpy` to compute the distances.
 
+## Dataset
+The dataset for this assignment is `src/assets/geo_location_data.csv`.
+
+
 ## 📖 Instructions
 You have to implement your solution proposal in the file `script.py`. Remove all TODO comments and lines in the code/docstrings and replace them with your own code/docstrings.
 

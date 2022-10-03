@@ -20,6 +20,9 @@ Here are the steps of the processing:
 
     - Add a column `day_of_birth_day` containing the day of the week of the user's birth date, encoded using 3 charaters like that : ` "Mon", "Tue", "Wed", ... `.
 
+## Dataset
+The dataset for this assignment is `src/assets/data_to_process.csv`.
+
 
 ## 📖 Instructions
 You have to implement your solution proposal in the file `script.py`. Remove all TODO comments and lines in the code/docstrings and replace them with your own code/docstrings.
